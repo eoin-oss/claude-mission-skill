@@ -47,4 +47,4 @@ MIT — free to use, adapt, and share.
 
 ---
 
-Built by Eoin Wells.
+Built by Eoin Wells — [@ewells___](https://www.instagram.com/ewells___/).
